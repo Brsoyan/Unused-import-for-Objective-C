@@ -5,7 +5,7 @@
 Remove Double imports from your project
 
 Set your file path
-project_path = "/Users/hb/Desktop/picsart-ios"
+project_path = "/Users/hb/Desktop/project_Path"
 
 You can set file prefix which you need to find.
 prefix = "HB"
