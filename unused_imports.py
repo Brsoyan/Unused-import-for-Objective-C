@@ -46,7 +46,7 @@ for file in files:
 
 		f.close()
 
-	print(class_names)
+print("Finish")
 
 
 
