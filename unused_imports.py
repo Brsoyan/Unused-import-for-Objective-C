@@ -79,5 +79,6 @@ for file in files:
 			else:
 				f.write(line)
 		f.close()
-
+		
+print("Finish")
 
